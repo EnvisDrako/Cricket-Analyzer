@@ -1,4 +1,4 @@
-🏏 Cricket Shot Analyzer
+#🏏 Cricket Shot Analyzer
 The Cricket Shot Analyzer is a modular Python application that performs real-time biomechanical analysis of a cricket cover drive from a video. It uses MediaPipe for pose estimation, calculates key biomechanical metrics, and provides a detailed evaluation of the shot.
 
 The script processes a local video, generates an annotated video with live metric overlays, and produces a comprehensive report in HTML format.
