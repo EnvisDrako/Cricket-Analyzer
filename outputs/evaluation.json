@@ -1,0 +1,54 @@
+{
+  "Footwork": {
+    "score": 1,
+    "smoothness": 1,
+    "feedback": "Maintain stable base with front foot pointing toward cover region"
+  },
+  "Head Position": {
+    "score": 1,
+    "smoothness": 9.94207702020202,
+    "feedback": "Keep head aligned with front knee throughout the shot"
+  },
+  "Swing Control": {
+    "score": 1,
+    "smoothness": 1,
+    "feedback": "Maintain high front elbow for better bat control"
+  },
+  "Balance": {
+    "score": 10,
+    "smoothness": 1,
+    "feedback": "Maintain upright posture with controlled spine lean"
+  },
+  "Follow-through": {
+    "score": 7.5,
+    "smoothness": 6.5,
+    "feedback": "Complete swing motion with weight transfer to front foot"
+  },
+  "Phase Timing": {
+    "phases": [
+      [
+        "Stance",
+        1755194177.922947
+      ],
+      [
+        "Stride",
+        1755194178.085994
+      ],
+      [
+        "Downswing",
+        1755194178.3292515
+      ],
+      [
+        "Impact",
+        1755194179.2531579
+      ],
+      [
+        "Follow-through",
+        1755194179.3763287
+      ]
+    ],
+    "feedback": "Analyze phase durations for optimal timing"
+  },
+  "Total Score": 4.1,
+  "Skill Grade": "Beginner"
+}
